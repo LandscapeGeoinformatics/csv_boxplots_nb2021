@@ -2,6 +2,9 @@
 
 Python notebook for given lectures in UT Landscape Ecology course
 
+Run the notebook:
+
+[![Run Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/csv_boxplots_nb2021/HEAD?filepath=statistika.ipynb)
 
 ## Acknowledgements
 
@@ -9,7 +12,7 @@ Python notebook for given lectures in UT Landscape Ecology course
 
 - H2020 MSCA IF
 
-<img alt="HITSA " style="border-width:0" src="https://github.com/LandscapeGeoinformatics/csv_boxplots_nb2021/blob/main/img/Banner-msca3.png" height="100" />
+<img alt="MSCA " style="border-width:0" src="https://github.com/LandscapeGeoinformatics/csv_boxplots_nb2021/blob/main/img/Banner-msca3.png" height="100" />
 
 - HITSA
 
