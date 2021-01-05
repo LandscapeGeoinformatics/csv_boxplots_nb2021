@@ -9,11 +9,11 @@ Python notebook for given lectures in UT Landscape Ecology course
 
 - H2020 MSCA IF
 
-<img alt="HITSA " style="border-width:0" src="https://github.com/LandscapeGeoinformatics/geopython-ut-2020-course/blob/master/source//_static/img/Banner-msca3.png" height="100" />
+<img alt="HITSA " style="border-width:0" src="https://github.com/LandscapeGeoinformatics/csv_boxplots_nb2021/blob/main/img/Banner-msca3.png" height="100" />
 
 - HITSA
 
-<img alt="HITSA " style="border-width:0" src="https://github.com/LandscapeGeoinformatics/geopython-ut-2020-course/blob/master/source//_static/img/HITSA_logo.jpg" height="100" />
+<img alt="HITSA " style="border-width:0" src="https://github.com/LandscapeGeoinformatics/csv_boxplots_nb2021/blob/main/img/HITSA_logo.jpg" height="100" />
 
 
 
