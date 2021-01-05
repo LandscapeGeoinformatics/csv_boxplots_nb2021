@@ -4,7 +4,9 @@ Python notebook for given lectures in UT Landscape Ecology course
 
 Run the notebook:
 
-[![Run Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/csv_boxplots_nb2021/HEAD?filepath=statistika.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LandscapeGeoinformatics/csv_boxplots_nb2021/blob/main/statistika.ipynb)
+
+[![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/csv_boxplots_nb2021/HEAD?filepath=statistika.ipynb)
 
 ## Acknowledgements
 
