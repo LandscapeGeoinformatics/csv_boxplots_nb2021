@@ -4,6 +4,14 @@ Python notebook for given lectures in UT Landscape Ecology course
 
 Run the notebook:
 
+__Estonian version__
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LandscapeGeoinformatics/csv_boxplots_nb2021/blob/main/statistika_est.ipynb)
+
+[![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/csv_boxplots_nb2021/HEAD?filepath=statistika_est.ipynb)
+
+__English__
+
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LandscapeGeoinformatics/csv_boxplots_nb2021/blob/main/statistika.ipynb)
 
 [![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/csv_boxplots_nb2021/HEAD?filepath=statistika.ipynb)
