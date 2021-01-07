@@ -1,6 +1,6 @@
 # simple statistics notebook for binder
 
-Python notebook for given lectures in UT Landscape Ecology course
+Python notebook for given lectures in Univeristy of Tartu LOOM.02.159 Landscape Ecology course
 
 Run the notebook:
 
