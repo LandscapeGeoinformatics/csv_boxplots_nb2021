@@ -16,6 +16,10 @@ __English__
 
 [![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/csv_boxplots_nb2021/HEAD?filepath=statistika.ipynb)
 
+## Used materials
+[SciPy](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mannwhitneyu.html)
+Aasa, 2019. [Statistilise andmetöötluse praktikumid](http://aasa.ut.ee/statistika/)
+
 ## Acknowledgements
 
 - Supported by projects and funding
