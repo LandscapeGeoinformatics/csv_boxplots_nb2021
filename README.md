@@ -30,8 +30,9 @@ Aasa, 2019. [Statistilise andmetöötluse praktikumid](http://aasa.ut.ee/statist
 <img alt="HITSA " style="border-width:0" src="https://github.com/LandscapeGeoinformatics/csv_boxplots_nb2021/blob/main/img/HITSA_logo.jpg" height="100" />
 
 
-
 ## License and terms of usage
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5876290.svg)](https://doi.org/10.5281/zenodo.5876290)
 
 Alexander Kmoch and Evelyn Uuemaa
 
