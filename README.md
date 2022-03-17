@@ -6,7 +6,7 @@ Run the notebook:
 
 __English__
 
-[![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/csv_boxplots_nb2021/HEAD?filepath=statistiks_comparison.ipynb)
+[![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/csv_boxplots_nb2021/HEAD?filepath=statistics_comparison.ipynb)
 
 __Estonian version__
 
