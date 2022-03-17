@@ -1,16 +1,16 @@
 # simple statistics notebook for binder
 
-Python notebook for given lectures in Univeristy of Tartu LOOM.02.159 Landscape Ecology course
+Python notebook for given lectures in Univeristy of Tartu
 
 Run the notebook:
+
+__English__
+
+[![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/csv_boxplots_nb2021/HEAD?filepath=statistiks_comparison.ipynb)
 
 __Estonian version__
 
 [![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/csv_boxplots_nb2021/HEAD?filepath=statistika_est.ipynb)
-
-__English__
-
-[![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/csv_boxplots_nb2021/HEAD?filepath=statistika.ipynb)
 
 ## Used materials
 SciPy, 2020. [Mann-Whitney U test](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mannwhitneyu.html)
