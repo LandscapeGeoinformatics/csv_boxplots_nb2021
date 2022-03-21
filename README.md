@@ -1,6 +1,6 @@
 # simple statistics notebook for binder
 
-Python notebook for given lectures in Univeristy of Tartu
+Python notebook for given lectures in University of Tartu
 
 Run the notebook:
 
