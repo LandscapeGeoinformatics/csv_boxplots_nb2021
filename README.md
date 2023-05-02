@@ -1,4 +1,4 @@
-# simple statistics notebook for binder
+# Simple statistics notebook for binder
 
 Python notebook for given lectures in University of Tartu
 
