@@ -4,9 +4,9 @@ Python notebook for given lectures in University of Tartu
 
 Run the notebook:
 
-__Estonian__
+__English__
 
-[![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/csv_boxplots_nb2021/HEAD?filepath=statistika_est.ipynb)
+[![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://github.com/LandscapeGeoinformatics/csv_boxplots_nb2021/blob/main/statistics_comparison.ipynb)
 
 
 
