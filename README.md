@@ -1,16 +1,18 @@
 # Simple statistics notebook for binder
 
-Python notebook for given lectures in University of Tartu
+Python notebook for given lectures at the University of Tartu
 
 Run the notebook:
 
-__Estonian__
+__Ruumiandmete analüüs__
+
+[![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/csv_boxplots_nb2021/HEAD?filepath=statistics_comparison.ipynb)
+
+
+__Maastikuökoloogia__
 
 [![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/csv_boxplots_nb2021/HEAD?filepath=statistika_est.ipynb)
 
-__English__
-
-[![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/csv_boxplots_nb2021/HEAD?filepath=statistics_comparison.ipynb)
 
 
 ## Used materials
