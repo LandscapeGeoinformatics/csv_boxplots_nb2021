@@ -1,8 +1,9 @@
-# Simple statistics notebook for binder
+# Simple statistics notebooks
 
-Python notebook for given lectures at the University of Tartu
+Python notebooks for given lectures at the University of Tartu
+The notebooks enable to make box-plots and perform Mann-Whitney U test
 
-Run the notebook:
+Run the notebook needed for your course:
 
 __Ruumiandmete analüüs__
 
