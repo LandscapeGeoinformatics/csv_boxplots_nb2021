@@ -8,19 +8,19 @@ Run the notebook needed for your course:
 
 __Geosüsteemide modelleerimine__
 
-[![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/csv_boxplots_nb2021/HEAD?filepath=regressioon_modelleerimine.ipynb)
+[![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/simple_stats/HEAD?filepath=regressioon_modelleerimine.ipynb)
 
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LandscapeGeoinformatics/csv_boxplots_nb2021/blob/main/regressioon_modelleerimine.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LandscapeGeoinformatics/simple_stats/blob/main/regressioon_modelleerimine.ipynb)
 
 __Ruumiandmete analüüs__
 
-[![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/csv_boxplots_nb2021/HEAD?filepath=statistika_ruumianalyys.ipynb)
+[![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/simple_stats/HEAD?filepath=statistika_ruumianalyys.ipynb)
 
 
 __Maastikuökoloogia__
 
-[![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/csv_boxplots_nb2021/HEAD?filepath=statistika_est.ipynb)
+[![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/simple_stats/HEAD?filepath=statistika_est.ipynb)
 
 
 
@@ -53,6 +53,7 @@ We hope that the materials provided here would be helpful for others. Thus, we s
 **These materials and code snippets are licensed** with **Creative Commons Attribution 4.0 International licence** and **MIT license**.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" align="left" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+
 
 
 
