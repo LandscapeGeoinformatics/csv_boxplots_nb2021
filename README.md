@@ -8,10 +8,18 @@ Run the notebook needed for your course:
 
 __Geosüsteemide modelleerimine I osa__
 
-[![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/simple_stats/HEAD?filepath=regressioon_modelleerimine.ipynb)
+[![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/simple_stats/HEAD?filepath=regressioon_modelleerimine_1_osa.ipynb)
 
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LandscapeGeoinformatics/simple_stats/blob/main/regressioon_modelleerimine_1_osa.ipynb)
+
+__Geosüsteemide modelleerimine II osa__
+
+[![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/simple_stats/HEAD?filepath=regressioon_modelleerimine_2_osa.ipynb)
+
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LandscapeGeoinformatics/simple_stats/blob/main/regressioon_modelleerimine_2_osa.ipynb)
+
 
 __Ruumiandmete analüüs__
 
